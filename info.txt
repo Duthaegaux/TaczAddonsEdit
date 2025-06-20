@@ -1,0 +1,111 @@
+
+
+357mag
+	1851_navy_data 
+
+50beowulf
+	aa50beowulf_data aug_a5_data beowulf_ecr_data beowulf_tcr_data 
+
+556x45
+	adar2_data ak108_data ak19_data aug_a2_data aug_a3_data aug_hbar_data 
+	colt_933_data cursed15_data g36_data hk416c_data hk_g33_data m16a2_data 
+	m16a3_data m231_data mini_fix_data mk18_auto_data mk18_burst_data mk18_data 
+	qbz_97_data quatro15_data scar_hamr_data scar_pdw_data sr15_data sr16_data 
+	xm177_data 
+
+45acp
+	af2011_data mk23_data ump9_data 
+
+308
+	ai_awp_data ai_aws_data ak308_data ar10b_data ar10_data brn10_data 
+	hk417_data m1_garand_tac_data mk11_data 
+
+545x39
+	ak107_data ak12_data ak74m_data ak74_data aks74ub_data aks74u_data 
+	rpk16_data rpk_74_data z15_a_data z15_data 
+
+762x39
+	ak109_data ak15_data ak63e_data ak_alpha_data ak_delta_data ar762_data 
+	mk47_data sks_golden_data sks_wooden_data 
+
+602x41
+	ak22_data 
+
+9x39
+	ak9_data 
+
+300blk
+	ar18_data honey_badger_data scar_sbr_data 
+
+300winmag
+	ar338_data 
+
+57x28
+	ar57_data 
+
+223remington
+	arp_data mojave223_data scar_15p_data 
+
+9mm
+	aug_a3_para_data c96_data glock_18c_data glock_bulpup_data hk_mp5k_data hk_mp5sd_data 
+	luty_data m17_data ro635_data saiga9_data udp9_data vector9_data 
+	vityas_data 
+
+50bmg
+	bfg50_data blicky_data db_50_data deagle_50bmg_data excaliber_data gm6_lynx_data 
+	m82a2_data 
+
+can_blanks
+	can_cannon_data 
+
+556x30
+	colt_mars_data 
+
+12g_db
+	db_long_d_data db_short_d_data genesis12_dragons_breath_data 
+
+12g
+	db_short_tactical_data deagle_12g_data genesis12_data m870t_data saiga12_data sap6_data 
+	
+
+762x54
+	dp28_data dragonuv_svdm_data dragonuv_svds_data dragonuv_svd_data 
+
+12g_fl
+	genesis12_fl_data 
+
+75fk
+	glock_54_data 
+
+792x57
+	kar98_data 
+
+30_06
+	m1_garand_data msr_data 
+
+40mm
+	m320t_data 
+
+338
+	mjolnir_data 
+
+46x30
+	mp7_data 
+
+416barrett
+	mrad_data 
+
+nails
+	nailgun_data 
+
+bannana
+	potassium_power_data 
+
+65creedmoor
+	scar_ssr_data 
+
+50ae
+	thunderbird_data thunderbird_short_data 
+
+laser
+	z80_data 
