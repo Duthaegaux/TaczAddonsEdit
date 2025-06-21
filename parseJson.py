@@ -9,9 +9,10 @@ def change(line: str, data: list, re_pat: str, out):
         return
     for key in data.keys():
         if f"\"{key}\":" in line:
-            num = re.findall(re_pat, line)
+            mod_pat = f"\"{key}\": {re_pat}"
+            num = re.findall(mod_pat, line)
             if len(num) == 1:
-                out.write(line.replace(num[0], str(data[key])))
+                out.write(line.replace(num[0], f"\"{key}\": {data[key]}"))
                 return
     out.write(line)
 
@@ -61,7 +62,7 @@ for json in jsons:
             if cal not in data:
                 data[cal] = dict()
                 print(f"\t{cal} not in settings! Adding it to avoid error")
-            dat = data[cal] | standart
+            dat = standart | data[cal]
 
             info = trace(json.replace(".json", ""), cal, info)
             
