@@ -9,3 +9,5 @@ To use place all gun jsons from addon in jsons folder then run parseJson.py file
 python parseJson.py
 ```
 And in output folder you can find changed jsons with your parametrs
+
+With last expression in txt.txt file you can delete all chinese comments from jsons.
