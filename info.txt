@@ -1,10 +1,4 @@
 
 
-9x39
-	as_val_data 
-
-127x55
-	rsh_12_data 
-
-9x21
-	sr_2m_data 
+1163x39
+	mdxu_data 

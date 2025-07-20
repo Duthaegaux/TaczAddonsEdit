@@ -153,7 +153,10 @@ data = {
 
     },
     "357mag": {
-
+        "damage": 5.5,
+        "speed": 450,
+        "head_shot_multiplier": 1.3,
+        "armor_ignore": 0.15,
     },
     "9x39": {
         "damage": 10.2,
@@ -178,11 +181,97 @@ data = {
         "armor_ignore": 0.4,
         "life": 3.0
     },
+    "12.7x55": {
+        "damage": 25.0,
+        "speed": 300,
+        "head_shot_multiplier": 2.0,
+        "armor_ignore": 0.4,
+        "life": 3.0
+    },
     "9x21": {
         "damage": 5.5,
         "speed": 400,
         "head_shot_multiplier": 1.5,
         "armor_ignore": 0.1,
+        "life": 1.5
+    },
+    "rpg_rocket": {
+
+    },
+    "6x35mm": {
+        "damage": 5.5,
+        "speed": 600,
+        "head_shot_multiplier": 1.2,
+        "armor_ignore": 0.25,
+    },
+    "23mm": {
+        "damage": 70.0,
+        "speed": 120,
+        "head_shot_multiplier": 1.2,
+        "armor_ignore": 0.05,
+        "bullet_amount": 10,
+        "life": 0.8
+    },
+    ".22wmr": {
+
+    },
+    "45_70": {
+
+    },
+    ".408ct": {
+        "damage": 30.0,
+        "speed": 1000,
+        "head_shot_multiplier": 2.0,
+        "armor_ignore": 0.5,
+    }, 
+    "7.65x20mm": {
+
+    },
+    "762x25": {
+        "damage": 4.0,
+        "speed": 450,
+        "head_shot_multiplier": 1.4,
+        "armor_ignore": 0.15,
+    },
+    "120mm": {
+
+    },
+    "58x42": {
+        "damage": 6.0,
+        "speed": 915,
+        "head_shot_multiplier": 1.4,
+        "armor_ignore": 0.3,
+    },
+    "35x32mm": {
+
+    },
+    "6.8tvcm": {
+        "damage": 15.0,
+        "speed": 800,
+        "head_shot_multiplier": 2.0,
+        "armor_ignore": 0.35,
+    },
+    "68x51fury": {
+        "damage": 15.0,
+        "speed": 800,
+        "head_shot_multiplier": 2.0,
+        "armor_ignore": 0.35,
+    },
+    "boomstickshot": {
+
+    },
+    "10mm": {
+        "damage": 4.2,
+        "speed": 365,
+        "head_shot_multiplier": 1.2,
+        "armor_ignore": 0.1,
+    },
+    "1163x39": {
+        "damage": 18.0,
+        "speed": 640,
+        "head_shot_multiplier": 1.6,
+        "armor_ignore": 0.25,
+        "life": 2.0
     }
 }
 
